@@ -1,4 +1,4 @@
-Hi there!! 👋
+Hi there!! 👋<br>
 
 <!--
 **scoder17/scoder17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+
 # 💫 About Me:
 Hi! My name is Adarsh Singh.<br>🌱 I am a budding developer.<br>🔭 I have worked on various team projects.<br>🤑 I have experience on working with websites and apps.<br>💭 I am currently learning Android App Development using Kotlin.<br>✉️ You can contact me at sadarsh460@gmail.com<br>👯 I am open to collaborate on app or web development projects.<br><br>⚡Fun fact: <br>I am very flexible to learn new tech stacks and work on it with a team.
 
