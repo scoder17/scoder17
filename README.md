@@ -11,9 +11,10 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadarsh460@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scoder17)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/scoder17_)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/scoder17_)
+[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KtMoDZWRINfe7-sluQ5pGe8yJqI3Qs_o/view?usp=sharing)  
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scoder17&theme=algolia"></td>
